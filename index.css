@@ -5,6 +5,7 @@
 
 .images {
   display: flex;
+  transtion: all 0.3s;
 }
 
 .red {
