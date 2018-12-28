@@ -1,3 +1,17 @@
-.images div {
-    background: url('');
+.window {
+  width: 500px;
+  overflow: hidden;
 }
+
+.images {
+  display: flex;
+}
+
+.red {
+  color: darkred;
+}
+
+
+
+
+
